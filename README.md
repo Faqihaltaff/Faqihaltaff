@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science Student at **Telkom University**
-- 🧠 Passionate about **Data Science, AI, and Machine Learning**
+- 🧠 Passionate about **Data Science, Data Analyst, AI, and Machine Learning**
 - 🔭 Currently working on **personal projects in ML/Computer Vision**
 - 🌱 Learning **LLMs, Computer Vision, and Big Data**
 - 📫 How to reach me: **faqihaltaf@student.telkomuniversity.ac.id**
@@ -48,7 +48,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Faqihaltaff)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Faqihaltaff&theme=onedark)
 
 ---
 
