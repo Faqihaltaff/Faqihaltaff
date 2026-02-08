@@ -52,7 +52,11 @@
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Faqihaltaff&no-frame=true)
+## 🏆 GitHub Highlights
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faqihaltaff&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
+
 
 ---
 
