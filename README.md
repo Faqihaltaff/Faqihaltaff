@@ -51,15 +51,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-## 🏆 GitHub Highlights
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faqihaltaff&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
-
-
----
-
 ## 🔥 Featured Projects
 [![IndonesiaSmartCity-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Faqihaltaff&repo=IndonesiaSmartCity-Analysis&theme=radical)](https://github.com/Faqihaltaff/IndonesiaSmartCity-Analysis)
 [![tic-tac-toe](https://github-readme-stats.vercel.app/api/pin/?username=Faqihaltaff&repo=tic-tac-toe&theme=radical)](https://github.com/Faqihaltaff/tic-tac-toe)
