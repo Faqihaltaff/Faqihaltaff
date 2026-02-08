@@ -40,7 +40,6 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faqihaltaff&show_icons=true&theme=tokyonight&hide_border=true)
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faqihaltaff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faqihaltaff&layout=compact&langs_count=8&theme=tokyonight"/>
@@ -53,7 +52,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Faqihaltaff&theme=onedark&no-frame=true&row=1&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Faqihaltaff&no-frame=true)
 
 ---
 
