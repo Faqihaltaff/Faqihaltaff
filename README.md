@@ -37,24 +37,24 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alohawas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alohawas&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faqihaltaff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faqihaltaff&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=alohawas&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Faqihaltaff&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=alohawas&theme=onedark&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Faqihaltaff&theme=onedark&no-frame=true&row=1&column=7)
 
 ---
 
 ## 🔥 Featured Projects
-[![IndonesiaSmartCity-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=alohawas&repo=IndonesiaSmartCity-Analysis&theme=radical)](https://github.com/alohawas/IndonesiaSmartCity-Analysis)
-[![tic-tac-toe](https://github-readme-stats.vercel.app/api/pin/?username=alohawas&repo=tic-tac-toe&theme=radical)](https://github.com/alohawas/tic-tac-toe)
+[![IndonesiaSmartCity-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Faqihaltaff&repo=IndonesiaSmartCity-Analysis&theme=radical)](https://github.com/Faqihaltaff/IndonesiaSmartCity-Analysis)
+[![tic-tac-toe](https://github-readme-stats.vercel.app/api/pin/?username=Faqihaltaff&repo=tic-tac-toe&theme=radical)](https://github.com/Faqihaltaff/tic-tac-toe)
 
 ---
 
@@ -71,5 +71,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alohawas&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Faqihaltaff&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
