@@ -8,9 +8,11 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science Student at **Telkom University**
-- 🧠 Passionate about **Data Science, Data Analyst, AI, and Machine Learning**
+- 🧠 Focused on **Machine Learning, Computer Vision, and Data Analysis**
+- 🔬 Experienced with **YOLO, CNNs, and real-world datasets**
 - 🔭 Currently working on **personal projects in ML/Computer Vision**
 - 🌱 Learning **LLMs, Computer Vision, and Big Data**
+- 📊 Interested in **applied ML and data-driven decision making**
 - 📫 How to reach me: **faqihaltaf@student.telkomuniversity.ac.id**
 
 ---
@@ -27,6 +29,8 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ### Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -36,6 +40,7 @@
 ---
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faqihaltaff&show_icons=true&theme=tokyonight&hide_border=true)
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faqihaltaff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faqihaltaff&layout=compact&langs_count=8&theme=tokyonight"/>
@@ -48,7 +53,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Faqihaltaff&theme=onedark&v=2)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Faqihaltaff&theme=onedark&no-frame=true&row=1&margin-w=15)
 
 ---
 
