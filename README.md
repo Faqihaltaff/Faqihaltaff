@@ -48,7 +48,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Faqihaltaff&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Faqihaltaff&theme=onedark&v=2)
 
 ---
 
